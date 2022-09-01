@@ -1,3 +1,3 @@
-# hackerrank-problem-solving-basic
+# Hackerrank Problem Solving Basic Certificate
  To get a certificate, two problems have to be solved within 90 minutes.
 
